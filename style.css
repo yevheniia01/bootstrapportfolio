@@ -1,0 +1,20 @@
+@media only screen and (min-width: 360px) {
+    .web1 {
+      width: 100px;
+      display: block;
+    float: left;
+    }
+  }
+  @media only screen and (min-width: 360px) {
+    .web2 {
+      width: 100px;
+      display: block;
+    float: left;
+    }
+  }
+  @media only screen and (max-width: 360px) {
+    .web3 {
+      width: 100px;
+    }
+  }
+  

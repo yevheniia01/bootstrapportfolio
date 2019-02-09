@@ -1,0 +1,22 @@
+<div class="container3">
+            <h1 id="portfolio">Portfolio</h1>
+            <hr>
+            <div class="gallery">
+            <div class="webpage">
+                <img src="../BootstrapPortfolio.github.io/images/coffee-man.png">
+               
+                <a id="coffe" href="../BootstrapPortfolio.github.io/TsunamiCoffee/Index.html">Tsunami Coffee</a>
+            </div>
+            <div class="webpage2">
+                <img src="../BootstrapPortfolio.github.io/images/travel.jpeg">
+               
+                <a id="olivia" href="../BootstrapPortfolio.github.io/Olivia Woodruff/index.html">Olivia Woodruff</a>
+            </div>
+            <div class="webpage3">
+                <img src="../BootstrapPortfolio.github.io/images/img-myrtle-ave.jpg">
+                
+                <a id="tea" href="../BootstrapPortfolio.github.io/TeaCozy/index.html">Tea Cozy</a>
+            </div>
+        </div>
+        </div>
+        <footer><h3>Copyright ©2018 Yevheniia Dilekoglu</h3></footer>
